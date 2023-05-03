@@ -351,38 +351,38 @@ header {
 }
 
 .statistic {
-    background-image: url(./../../img/icons/statistics.svg);
+    background-image: url(../img/icons/statistics.svg);
     transition: .3s;
 
     &:hover {
-        background-image: url(./../../img/icons/statistics_active.svg);
+        background-image: url(../img/icons/statistics_active.svg);
     }
 }
 
 .heart {
-    background-image: url(./../../img/icons/heart.svg);
+    background-image: url(../img/icons/heart.svg);
     transition: .3s;
 
     &:hover {
-        background-image: url(./../../img/icons/heart_active.svg);
+        background-image: url(../img/icons/heart_active.svg);
     }
 }
 
 .cart {
-    background-image: url(./../../img/icons/cart.svg);
+    background-image: url(../img/icons/cart.svg);
     transition: .3s;
 
     &:hover {
-        background-image: url(./../../img/icons/cart_active.svg);
+        background-image: url(../img/icons/cart_active.svg);
     }
 }
 
 .user {
-    background-image: url(./../../img/icons/user.svg);
+    background-image: url(../img/icons/user.svg);
     transition: .3s;
 
     &:hover {
-        background-image: url(./../../img/icons/user_active.svg);
+        background-image: url(../img/icons/user_active.svg);
     }
 }
 
@@ -414,19 +414,19 @@ header {
     &:hover {
 
         .statistic {
-            background-image: url(./../../img/icons/statistics_active.svg);
+            background-image: url(../img/icons/statistics_active.svg);
         }
 
         .heart {
-            background-image: url(./../../img/icons/heart_active.svg);
+            background-image: url(../img/icons/heart_active.svg);
         }
 
         .cart {
-            background-image: url(./../../img/icons/cart_active.svg);
+            background-image: url(../img/icons/cart_active.svg);
         }
 
         .user {
-            background-image: url(./../../img/icons/user_active.svg);
+            background-image: url(../img/icons/user_active.svg);
         }
     }
 }
@@ -697,18 +697,18 @@ header {
     }
 
     .btn_compare {
-        background-image: url(./../../img/icons/statistics.svg);
+        background-image: url(../img/icons/statistics.svg);
 
         &:active {
-            background-image: url(./../../img/icons/statistics_active.svg);
+            background-image: url(../img/icons/statistics_active.svg);
         }
     }
 
     .btn_like {
-        background-image: url(./../../img/icons/heart.svg);
+        background-image: url(../img/icons/heart.svg);
 
         &:active {
-            background-image: url(./../../img/icons/heart_active.svg);
+            background-image: url(../img/icons/heart_active.svg);
         }
     }
 }
@@ -750,7 +750,7 @@ header {
     border-radius: 10px;
     width: 40px;
     height: 40px;
-    background-image: url(./../../img/icons/cart.svg);
+    background-image: url(../img/icons/cart.svg);
     background-position: center;
     background-size: 20px 20px;
     background-repeat: no-repeat;
